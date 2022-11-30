@@ -1,3 +1,4 @@
+
 import os, sys
 try:
     __import__("Crack").__killer__()
